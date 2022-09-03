@@ -1,10 +1,12 @@
-h1{
-    color: red;
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+h1{
+    color: #b0824f;
+}
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-image: url('/assets/background-image.jpg');
+    /* background-image: url('/assets/background-image.jpg'); */
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -17,7 +19,7 @@ body {
 .not{
     text-decoration: underline;
 }
-}
+
 
 /* Custom Form login Styles */
 .center-div {
