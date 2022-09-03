@@ -24,6 +24,14 @@ A Simple ToDo App is built using the MVC Architecture, we have also implemented 
 
 bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,nodejs,github,markdown" />
+  </a>
+</p>
+<br>
+<br>
+
 ---
 
 # Install all the dependencies or node packages used for development via Terminal
