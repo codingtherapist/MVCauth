@@ -1,45 +1,49 @@
-# Introduction
-By Africa, Nayeli, Ray and Cecelia 
 
-A Simple ToDo App is built using the MVC Architecture, we have also implemented "authorization" so folx can sign up, customize & personalize the app 
 
----
+# **MVC authentication team project** 
 
-> Be sure to add that lovely star 😀 and fork it for your own copy
+This project is a Model-View-Controller Architecture practical team project, which also implemented authorization for the login and sign-up feature. This project uses the 100devs MVC framework, following the MVC design pattern.
 
----
+This project updated the user interface design and it improves the maintainability, scalability, profitability, and reusability of components of the application.  This simple app can implement into any of website that supports JavaScript environments to provide users authentication services. 
 
-# Objectives
+**Link to project:** 
 
-- It's a beginner level app created to understand how MVC concept and logins are added
-
----
-
-# Who is this for? 
-
-- It's for beginners & intermediates with little more experience, to help understand the various aspects of building a node app with some complex features
-
----
-
-# Packages/Dependencies used 
-
-bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
-
----
-
-# Install all the dependencies or node packages used for development via Terminal
-
-`npm install` 
-
----
-
-# Things to add
-
-- Create a `.env` file and add the following as `key: value` 
-  - PORT: 2121 (can be any port example: 3000) 
-  - DB_STRING: `your database URI` 
- ---
  
- Have fun testing and improving it! 😎
+
+## **How It's Made:**
+
+**Tech used:** EJS, CSS, BootStrap5, and JavaScript , Node.js , MongoDB
+
+Team members participated in design discussions to determine project scope 1. Each member took the assignment to develop this simple application that allows users to register, log in, and link to database information, as developers can create, update, modify and delete operations.
 
 
+
+## **Optimizations**
+
+**Login history track feature:** 
+
+The database set supports tracking login history; for example, when the user clicks or inputs private information, it automatically tracks login history and cookie service. 
+
+**Security login feature:** 
+
+Friendly reminder users create strong passwords and multiple method encryption and authentication.
+
+**Message box design:** 
+
+Set Message box provides simulations of the application alert, confirm and prompt. 
+
+## **Lessons Learned:**
+
+**Fork and Set up the project :**
+
+Team members support each other, set up the project work on their devices, and are all on the same page. 
+
+**GitHub Pull request :**
+
+Team members follow technical lead instructions and collaborate on information to set up their branch. 
+
+**MongoDB Atlas invite to the project**
+
+Team members participated in database administrator adding team members to the project database. 
+
+ 
