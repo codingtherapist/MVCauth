@@ -45,5 +45,3 @@ Team members follow technical lead instructions and collaborate on information t
 **MongoDB Atlas invite to the project**
 
 Team members participated in database administrator adding team members to the project database. 
-
- 

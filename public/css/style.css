@@ -21,6 +21,37 @@ body {
 }
 
 
+
+
+/*login page*/
+body{
+    background-image: url("https://wallpapercave.com/uwp/uwp2708166.jpeg");
+}
+
+#container {
+    width: 67%;
+    margin: 0 auto 2% auto;
+    padding: 10px;
+    
+    border-radius: 15px;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    background-color: rgba(160, 216, 240, 0.503);
+    backdrop-filter: blur(10px);
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+  h1{
+    color: green;
+  }
+
+ /*#login{
+    display: flex;
+  }
+
+  .login1{
+    width: 50%;
+  }*/
 /* Custom Form login Styles */
 .center-div {
     padding-top: 10%;
@@ -47,5 +78,5 @@ form {
 }
 
 #login .title>span {
-    font-size: .8em;
+  
 }
