@@ -1,12 +1,10 @@
-
-
 # **MVC authentication team project** 
 
 This project is a Model-View-Controller Architecture practical team project, which also implemented authorization for the login and sign-up feature. This project uses the 100devs MVC framework, following the MVC design pattern.
 
 This project updated the user interface design and it improves the maintainability, scalability, profitability, and reusability of components of the application.  This simple app can implement into any of website that supports JavaScript environments to provide users authentication services. 
 
-**Link to project:** 
+**Link to project:** https://github.com/codingtherapist/MVCauth.git 
 
  
 
@@ -45,3 +43,5 @@ Team members follow technical lead instructions and collaborate on information t
 **MongoDB Atlas invite to the project**
 
 Team members participated in database administrator adding team members to the project database. 
+
+ 
